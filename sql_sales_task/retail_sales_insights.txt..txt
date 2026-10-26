@@ -1,0 +1,19 @@
+# Retail Sales Analytics — Business Insights Report
+
+## 1. Highest-Revenue Product
+The Laptop generated the highest revenue of ₹165,000, making it the most valuable product by sales revenue.
+
+## 2. Best-Selling Product by Quantity
+The Notebook sold 18 units, making it the best-selling product by quantity.
+
+## 3. Top Revenue-Generating Category
+The Electronics category generated ₹177,000, contributing approximately 92.04% of total revenue.
+
+## 4. Highest-Spending Customer
+Diya was the highest-spending customer, with total spending of ₹66,500.
+
+## 5. Overall Sales Revenue
+The total sales revenue was ₹192,300 for the recorded sales period in May 2025.
+
+## Conclusion
+The analysis shows that Electronics drives most of the revenue, while Notebooks lead in quantity sold. The business could focus on maintaining Electronics inventory while exploring opportunities to increase sales in Furniture and Stationery.
